@@ -1,0 +1,83 @@
+/* Reset some default styles */
+body, h1, h2, ul, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Set a background color and font styles */
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+}
+
+/* Style the header */
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+/* Style the main content */
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Style the student catalog section */
+#student-catalog {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+/* Style the student cards */
+.student-card {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 15px;
+    margin-bottom: 20px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.student-card img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+.student-card h3 {
+    margin-top: 10px;
+}
+
+.student-card p {
+    margin: 5px 0;
+}
+
+.student-card a {
+    display: inline-block;
+    background-color: #0074d9;
+    color: #fff;
+    padding: 5px 10px;
+    text-decoration: none;
+    border-radius: 3px;
+    margin-top: 10px;
+}
+
+.student-card a:hover {
+    background-color: #0056b3;
+}
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background-color: #333;
+    color: #fff;
+}
+.image {
+    width: 220px;
+    height: auto;
+    border-radius: 50%;
+}
