@@ -1,6 +1,14 @@
 # student-portfolio
 The Student Portfolio Collaboration System is a web-based application designed to facilitate collaboration among a group of 15 students working on individual portfolio webpages. The primary objective of this software is to streamline the process of creating, sharing, and merging student portfolios hosted on GitHub.
 
+## Abubakar Almuhandis - My Contributions
+
+- **Name:** Abubakar Muhammad Umar
+- **Reg No:** NAS/STE/19/1018
+- **Role:** Lead
+- **Contributions:**
+  Led the team and created the structure of the website
+  
 ## Zaharaddin Salisu - My Contributions
 
 - **Name:** Zaharaddin Salisu
