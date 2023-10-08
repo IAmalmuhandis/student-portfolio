@@ -34,9 +34,14 @@ I made my contribution by adding a page to my project
 
 I made my contribution by adding a page of my profile and link to learn python
 
-**Name:** IBRAHIM MUSTAPHA SALGA
+# Name: IBRAHIM MUSTAPHA SALGA
 
 - **Reg No:** NAS/STE/19/1081
 - **Role:** Collaborator
 - **Contributions:**
   - Worked on the front-end design and layout of the student portfolio page.
+
+# sadik bala mai auduga
+I made my contribution by adding a page of my profile too which contains my bio and details
+
+
