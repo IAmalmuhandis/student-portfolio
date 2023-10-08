@@ -26,3 +26,7 @@ I've also added my page and contributed to the project
 
 # Nurudeen 
 I made my contribution by adding a page to my project
+
+# magashi 
+I made my contribution by adding a page of my profile and link to learn python
+
