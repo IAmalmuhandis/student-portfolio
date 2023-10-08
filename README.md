@@ -54,6 +54,7 @@ I added my page too
 
 # Hadi Umar
 I did my contribution to the project , by create the file hadi.html and created my profile
-
+# Sadiq sagir shariff
+I made my contribution by making changes on our profiles.
 
 
