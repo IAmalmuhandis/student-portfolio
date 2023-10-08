@@ -5,6 +5,8 @@ The Student Portfolio Collaboration System is a web-based application designed t
 
 
 
+
+
 ## Abubakar Almuhandis - My Contributions
 
 - **Name:** Abubakar Muhammad Umar
@@ -57,4 +59,5 @@ I did my contribution to the project , by create the file hadi.html and created 
 # Sadiq sagir shariff
 I made my contribution by making changes on our profiles.
 
-
+# LUKMAN AHMAD YAKUBU
+i added the profile page and modified my details
